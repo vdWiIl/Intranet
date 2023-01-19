@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
- <iframe src="https://planetwill.sharepoint.com/" title="Intranet"></iframe> 
+ <embed src="http://www.example.com" style="width:500px; height: 300px;">
 </body>
 </html>
